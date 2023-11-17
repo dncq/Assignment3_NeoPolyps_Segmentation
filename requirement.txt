@@ -1,0 +1,7 @@
+torch
+torchsummary
+torchgeometry
+torchvision
+albumentations
+opencv-python
+segmentation_models_pytorch
